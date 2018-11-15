@@ -19,6 +19,7 @@ Use the following links:
 * [Lecture-1 Linear Regression](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-1-Linear-Regression.ipynb)
 * [Lecture-2 Linear Mixed Model](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-2-Linear-Mixed-Model.ipynb)
 * [Lecture-3 Multi Trait Linear Mixed Model](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-3-Multi-Trait-Linear-Mixed-Model.ipynb)
+* [Lecture-4 Estimating (SNP) narrow-sense heritability](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-4-SNPHeritability.ipynb)
 
 License
 =======
