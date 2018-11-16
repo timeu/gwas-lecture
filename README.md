@@ -1,7 +1,7 @@
 Lectures on Genome Wide Association Studies (GWAS) with Limix, Python and Jupyter Notebooks
 ============================================
 
-<a href="https://notebooks.azure.com/import/gh/timeu/gwas-lectures"><img src="https://notebooks.azure.com/launch.png" /></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timeu/gwas-lecture/master)
 
 A set of lectures on Genome Wide Association Studies (GWAS) with Limix, Python and Jupyter Notebooks.
 
