@@ -16,10 +16,11 @@ Online read-only versions
 Use the following links:
 
 * [Lecture-0 Setup of Python Environment](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-0-Setup-of-Python-Environment.ipynb)
-* [Lecture-1 Linear Regression](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-1-Linear-Regression.ipynb)
-* [Lecture-2 Linear Mixed Model](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-2-Linear-Mixed-Model.ipynb)
-* [Lecture-3 Multi Trait Linear Mixed Model](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-3-Multi-Trait-Linear-Mixed-Model.ipynb)
-* [Lecture-4 Estimating (SNP) narrow-sense heritability](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-4-SNPHeritability.ipynb)
+* [Lecture-1 Python Data Science Guide](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-1-Python-Data-Science-Guide.ipynb)
+* [Lecture-2 Linear Regression](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-2-Linear-Regression.ipynb)
+* [Lecture-3 Linear Mixed Model](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-3-Linear-Mixed-Model.ipynb)
+* [Lecture-4 Multi Trait Linear Mixed Model](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-4-Multi-Trait-Linear-Mixed-Model.ipynb)
+* [Lecture-5 Estimating (SNP) narrow-sense heritability](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-5-SNPHeritability.ipynb)
 
 License
 =======
