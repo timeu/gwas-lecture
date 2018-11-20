@@ -27,6 +27,10 @@ studies['smith08'] = {}
 studies['smith08']['url'] =  url_base + 'smith_2008/smith08.hdf5'
 studies['smith08']['path'] =  'smith_2008/smith08.hdf5'
 
+studies['glucs'] = {}
+studies['smith08']['url'] =  url_base + 'cmeyer_glucs2015/bmeyer_etal.txt' 
+studies['smith08']['path'] =  'cmeyer_glucs2015/bmeyer_etal.txt'
+
 def get_file(study_name):
     """return hdf5 file and download from the web if needed"""
     study = studies[study_name]
