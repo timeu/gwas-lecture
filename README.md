@@ -13,6 +13,7 @@ To open these notebooks in Jupyter, download the files to a directory on your co
 Online read-only versions
 =========================
 
+
 Use the following links:
 
 * [Lecture-0 Setup of Python Environment](http://nbviewer.ipython.org/urls/raw.github.com/timeu/gwas-lecture/master/Lecture-0-Setup-of-Python-Environment.ipynb)
