@@ -41,7 +41,7 @@ def get_file(study_name):
     if not os.path.exists(file_name):
         if not os.path.exists(dir_name):
             os.makedirs(dir_name)
-        print "file not found, downloading from %s" % study['url']
+        print("file not found, downloading from %s" % study['url'])
         download_file(study['url'],file_name) 
     return file_name
 

@@ -1,8 +1,9 @@
-name: gwas-lecture_mix
+name: gwas-lecture
 channels:
   - defaults
   - conda-forge/label/cf201901
 dependencies:
-  - python=2.7
+  - python=3
   - limix=1.0.18
   - jupyter
+  - matplotlib=2.2.3
