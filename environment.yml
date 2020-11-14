@@ -7,3 +7,6 @@ dependencies:
   - limix=1.0.18
   - jupyter
   - matplotlib=2.2.3
+  - r=3.6
+  - r-irkernel
+  - pytables
