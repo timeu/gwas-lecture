@@ -10,3 +10,4 @@ dependencies:
   - r=3.6
   - r-irkernel
   - pytables
+  - nose
