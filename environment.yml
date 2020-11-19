@@ -11,3 +11,5 @@ dependencies:
   - r-irkernel
   - pytables
   - nose
+  - r-ggplot2
+  - r-lme4
